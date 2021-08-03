@@ -20,7 +20,7 @@ const Taxi = require('./Taxi');
 
     await petras.drive(2);
     await petras.drive(3);
-    await petras.drive(2);
-    await petras.drive(3);
+    await petras.drive(5);
+    await petras.drive(4);
 
 })();
